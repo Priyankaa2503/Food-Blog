@@ -15,6 +15,9 @@
 <img width="1440" alt="Screenshot 2023-02-26 at 11 45 56 PM" src="https://user-images.githubusercontent.com/111295843/221428955-44e1241f-5e82-4d64-8f6d-d9c972fcf05e.png">
 <img width="1440" alt="Screenshot 2023-02-26 at 11 46 02 PM" src="https://user-images.githubusercontent.com/111295843/221429029-f7a7912d-f9cb-40e9-9e2c-7be6cfa0d952.png">
 <img width="1440" alt="Screenshot 2023-02-26 at 11 46 06 PM" src="https://user-images.githubusercontent.com/111295843/221429148-fb5a690c-8494-4b90-8d10-0f6cd185e652.png">
+<img width="1440" alt="Screenshot 2023-02-26 at 11 55 42 PM" src="https://user-images.githubusercontent.com/111295843/221429300-ae0f1fb5-9197-4084-99d2-eaadeb3657d0.png">
+<img width="1440" alt="Screenshot 2023-02-26 at 11 55 55 PM" src="https://user-images.githubusercontent.com/111295843/221429318-800e3f2b-639c-4a07-9140-c6174495a26a.png">
+<img width="1440" alt="Screenshot 2023-02-26 at 11 56 05 PM" src="https://user-images.githubusercontent.com/111295843/221429327-b3f942fc-79b8-46ee-b8c8-3c994c10e142.png">
 
 ## Database Integration using MongoDB
 <img width="1440" alt="Screenshot 2023-02-26 at 11 46 32 PM" src="https://user-images.githubusercontent.com/111295843/221429168-b79055be-e4d7-41fa-b4cd-9c5fd98e20b8.png">
