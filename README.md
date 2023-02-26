@@ -1,4 +1,4 @@
-# Food-Blog
+
 # Food Blog Website built using MERN Stack
 
 ## Tech Stack 💻
