@@ -66,7 +66,7 @@ const {
       <div className='flex flex-row justify-center '>
         <img src ="/images/paris.jpg" className='w-[490px] h-[400px]'></img>
         <div className='h-[400px] w-[490px] bg-white text-[#2f2e2e] text-center'><p className='font-grotesk  p-10'><u>AROUND THE WORLD</u></p>
-        <p className='font-playfair font-bold text-3xl p-10'>I'm a paragraph. Click here to add your own text and edit me. Let your users get to know you.</p></div>
+        <p className='font-playfair font-bold text-3xl p-10'>Food culture is the practices, beliefs, attitudes around the production, distribution, and consumption of food.</p></div>
       </div>
 
       <div className='flex flex-row h-[500px] p-20 items-start justify-center'>
